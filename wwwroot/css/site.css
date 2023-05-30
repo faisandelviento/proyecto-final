@@ -1,0 +1,58 @@
+/* :root {
+  --color-detalle: @(ViewBag.colordetalles);
+  --color-mayo: @(ViewBag.colorMayoritario);
+} */
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+a {
+  color: rgba(51, 120, 75, 0.888);
+}
+.center {
+  text-align: center;
+}
+
+#colInfo{
+  margin-top: 15px;
+}
+
+#container-foto {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  overflow: visible;
+}
+
+#first-image {
+  position: absolute;
+  top: 0;
+  right: 40%;
+  z-index: -1;
+}
+
+#second-image {
+  width: 100%;
+}
+.sombra {
+  box-shadow: 0px 0px 10px rgba(51, 40, 40, 0.5);
+}
