@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <h1 class="display-4" style="color:@ViewBag.colorMayoritario">@Model.track.name</h1>
+      <p style="color:@ViewBag.colordetalles"> by @Model.track.artists[0].name</p>
+        <audio controls autoplay> @*el autoplay aveces no funciona *@
+            <source src=@Model.track.preview_url type="audio/mpeg">
+            <source src=@Model.track.preview_url type="audio/ogg">
+        </audio> 
+        <div class="row" style="width:90%;">
+                <p>Comprar album en <a style="color:@ViewBag.colordetalles" href= @ViewBag.LinkAlbumAmazon>Amazon</a></p>
+                <p>Escuchar en <a style="color:@ViewBag.colordetalles" href=@Model.track.album.external_urls.spotify>Spotify</a></p>
+        </div>
+    </div>
+    <div class="col-sm">
+      <div id="container-foto">
+        <a href=@Model.track.album.external_urls.spotify>
+            <img src="https://pbs.twimg.com/media/FxVFNQeXgAAo3M8?format=jpg&name=small" alt="vinilo rodando" id="first-image"> @* queda mal?? *@
+            <img src=@Model.track.album.images[0].url alt="Cover Album" class="sombra" id="second-image">
+        </a>
+        </div>
+    </div>
+  </div>
+</div>
+</div>
+

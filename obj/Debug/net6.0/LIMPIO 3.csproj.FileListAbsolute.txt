@@ -1,0 +1,32 @@
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\appsettings.json
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\LIMPIO 3.staticwebassets.runtime.json
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\LIMPIO 3.exe
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\LIMPIO 3.deps.json
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\LIMPIO 3.runtimeconfig.json
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\LIMPIO 3.dll
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\LIMPIO 3.pdb
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.csproj.AssemblyReference.cache
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.AssemblyInfoInputs.cache
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.AssemblyInfo.cs
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.csproj.CoreCompileInputs.cache
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.RazorAssemblyInfo.cache
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.RazorAssemblyInfo.cs
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\scopedcss\bundle\LIMPIO 3.styles.css
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\scopedcss\projectbundle\LIMPIO 3.bundle.scp.css
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.dll
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\refint\LIMPIO 3.dll
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.pdb
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.genruntimeconfig.cache
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\ref\LIMPIO 3.dll
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\alumn\Desktop\LIMPIO 3\obj\Debug\net6.0\LIMPIO 3.csproj.CopyComplete
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\RestSharp.dll
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\alumn\Desktop\LIMPIO 3\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
