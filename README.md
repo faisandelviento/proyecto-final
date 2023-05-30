@@ -1,3 +1,5 @@
+EL dossier esta incluido en la carpeta 'dossier' del proyecto
+
 # proyecto-final
 Este repositorio utiliza 3 APIS:
 1. API imagga (https://imagga.com/solutions/color-api), es utilizada para obtener los colores principales de una imagen, funciona correctamente pero tiene limite de 1000 consultas, se han hecho 200.
